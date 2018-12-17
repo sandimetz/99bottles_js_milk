@@ -36,4 +36,13 @@ describe('Bottles', () => {
       'no more bottles of milk on the wall.\n';
     expect(new Bottles().verse(1)).toBe(expected);
   });
+
+  test('verse 0', () => {
+    const expected =
+      'No more bottles of milk on the wall, ' +
+      'no more bottles of milk.\n' +
+      'Go to the store and buy some more, ' +
+      '99 bottles of milk on the wall.\n';
+    expect(new Bottles().verse(0)).toBe(expected);
+  });
 });
