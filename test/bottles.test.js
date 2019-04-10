@@ -358,9 +358,9 @@ Take one down and pass it around, 8 bottles of milk on the wall.
 Take one down and pass it around, 7 bottles of milk on the wall.
 
 7 bottles of milk on the wall, 7 bottles of milk.
-Take one down and pass it around, 6 bottles of milk on the wall.
+Take one down and pass it around, 1 six-pack of milk on the wall.
 
-6 bottles of milk on the wall, 6 bottles of milk.
+1 six-pack of milk on the wall, 1 six-pack of milk.
 Take one down and pass it around, 5 bottles of milk on the wall.
 
 5 bottles of milk on the wall, 5 bottles of milk.
