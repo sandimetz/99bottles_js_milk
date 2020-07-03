@@ -368,6 +368,15 @@ describe('BottleVerse', () => {
     expect(BottleVerse.lyrics(7)).toBe(expected);
   });
 
+  test('verse 6', () => {
+    const expected =
+      '1 six-pack of milk on the wall, ' +
+      '1 six-pack of milk.\n' +
+      'Take one down and pass it around, ' +
+      '5 bottles of milk on the wall.\n';
+    expect(BottleVerse.lyrics(6)).toBe(expected);
+  });
+
   test('verse 2', () => {
     const expected =
       '2 bottles of milk on the wall, ' +
